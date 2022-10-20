@@ -4,3 +4,5 @@
  - [practice](https://github.com/HyeonJu-C/file-based-routing-practice)
 ### 2. [Pre-rendering](https://github.com/HyeonJu-C/pre-rendering)
  - [practice](https://github.com/HyeonJu-C/pre-rendering-practice)
+ ### 3. [API Route](https://github.com/HyeonJu-C/api-route)
+ - [practice]()
